@@ -1,3 +1,4 @@
 Ola!
-estou a desenvolver
+estou a desenvolver.
+continuo a desenvolver...
 Adeus!
